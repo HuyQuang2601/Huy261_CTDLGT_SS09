@@ -3,9 +3,9 @@
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
-  <component name="CMakePresetLoader">{
-  &quot;useNewFormat&quot;: true
-}</component>
+  <component name="CMakePresetLoader"><![CDATA[{
+  "useNewFormat": true
+}]]></component>
   <component name="CMakeProjectFlavorService">
     <option name="flavorId" value="CMakePlainProjectFlavor" />
   </component>
@@ -18,20 +18,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5c59a659-2b20-42bf-9a04-1808c1afd71a" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Session9.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/editor.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PTIT_CNTT1_IT103_SESSION09_BAI01/main.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PTIT_CNTT1_IT103_SESSION09_BAI02/main.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PTIT_CNTT1_IT103_SESSION09_BAI03/main.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PTIT_CNTT1_IT103_SESSION09_BAI04/main.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PTIT_CNTT1_IT103_SESSION09_BAI05/main.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PTIT_CNTT1_IT103_SESSION09_BAI06/main.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PTIT_CNTT1_IT103_SESSION09_BAI07/main.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PTIT_CNTT1_IT103_SESSION09_BAI08/main.c" beforeDir="false" />
-    </list>
+    <list default="true" id="282f0c19-93bd-4b72-bc5a-e491b6b0d574" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,26 +27,22 @@
   <component name="ClangdSettings">
     <option name="formatViaClangd" value="false" />
   </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
   <component name="ProjectApplicationVersion">
     <option name="ide" value="CLion" />
     <option name="majorVersion" value="2025" />
     <option name="minorVersion" value="1.2" />
     <option name="productBranch" value="Classic" />
   </component>
-  <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 3
-}</component>
-  <component name="ProjectId" id="2zMjM7wSI8azObvmwUAq71Vz1S6" />
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="2zVJeE9qbVS6KmZ0iRw3Un32BRj" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.RadMigrateCodeStyle": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.cidr.known.project.marker": "true",
@@ -67,7 +50,6 @@
     "RunOnceActivity.west.config.association.type.startup.service": "true",
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
-    "git-widget-placeholder": "main",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
@@ -86,16 +68,12 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="5c59a659-2b20-42bf-9a04-1808c1afd71a" name="Changes" comment="" />
-      <created>1751547785312</created>
+      <changelist id="282f0c19-93bd-4b72-bc5a-e491b6b0d574" name="Changes" comment="" />
+      <created>1751810399610</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1751547785312</updated>
-      <workItem from="1751547786563" duration="1000" />
+      <updated>1751810399610</updated>
     </task>
     <servers />
-  </component>
-  <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="3" />
   </component>
 </project>
